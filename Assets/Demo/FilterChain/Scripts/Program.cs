@@ -41,6 +41,8 @@ namespace CatLib.Demo.FilterChain
             IApplication application = gameObject.AddComponent<Application>();
             application.Bootstrap(new Type[] { typeof(Bootstraps) }).Init();
         }
+
+        
     }
 
 }
