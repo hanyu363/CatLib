@@ -6,3 +6,5 @@
 /Assets/Release/*
 .vscode
 .vs/CatLibU3D/v14/.suo
+Assets/CatLib/Lib/Lua/XLua/Gen
+Gen.meta
